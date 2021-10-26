@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\HP\Downloads\EjercicioTemplate Method para exposicion.zip"/>
+			<item value="C:\Users\HP\Downloads\ProyectoCopaAmericaDTO.zip"/>
+			<item value="C:\Users\HP\Downloads\Promedio 2 Alejandro Arteaga.zip"/>
+			<item value="C:\Users\HP\Downloads\Promedio Alejnadro Arteaga.zip"/>
+			<item value="C:\Users\HP\Downloads\CONVOCATORIA CRISTHIAN MANUEL PINZON CASTRILLON.zip"/>
+			<item value="C:\Users\HP\Downloads\Examen Shirley Katherine Rodriguez Giraldo.zip"/>
+			<item value="C:\Users\HP\Downloads\Taller 5 Sebastian Aragon Mondol Eliana Vanessa Almonacid Cesar Luis Sanchez Erick Santiago Rodriguez.zip"/>
+			<item value="C:\Users\HP\Documents\Taller tutoria 4 Sebastian Aragon Mondol y Cesar Luis Sanchez.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="true"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\HP\Downloads\EjercicioDTO"/>
+			<item value="C:\Users\HP\Downloads\PatrondeDisenoDTO"/>
+			<item value="C:\Users\HP\Downloads\Promedio"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
+</section>

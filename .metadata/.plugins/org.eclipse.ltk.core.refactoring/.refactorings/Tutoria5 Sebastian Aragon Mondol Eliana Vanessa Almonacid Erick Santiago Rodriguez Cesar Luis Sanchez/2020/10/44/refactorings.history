@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;Mundo.mundo.valorpasaje().valorpasaje&apos; in &apos;Mundo.mundo.valorpasaje()&apos; to field&#x0D;&#x0A;- Original project: &apos;Tutoria5 Sebastian Aragon Mondol Eliana Vanessa Almonacid Erick Santiago Rodriguez Cesar Luis Sanchez&apos;&#x0D;&#x0A;- Original element: &apos;Mundo.mundo.valorpasaje().valorpasaje&apos;&#x0D;&#x0A;- Field name: &apos;valorpasaje&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" description="Convert local variable &apos;valorpasaje&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;Mundo{mundo.java" name="valorpasaje" selection="1855 11" stamp="1603949590064" static="false" version="1.0" visibility="2"/>
+</session>
